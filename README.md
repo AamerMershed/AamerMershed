@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aamer Mershed</h1>
+<h1 align="center">Hi 😇, I'm Aamer Mershed</h1>
 <h3 align="center">I'm A Web Developer. I Spend My Whole Day, Practically Every Day, Experimenting With HTML, CSS, And JS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamermershed&label=Profile%20views&color=0e75b6&style=flat" alt="aamermershed" /> </p>
