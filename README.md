@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **blockchain technology and the tools and frameworks**
 
-- 👨‍💻 All of my projects are available at ([https://bio.link/mermed](https://owl.link/mershed.btc))
+- 👨‍💻 All of my projects are available at ([https://owl.link/mershed.btc](https://owl.link/mershed.btc))
 
 - 📫 How to reach me **(https://owl.link/mershed.btc)**
 
