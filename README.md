@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **blockchain technology and the tools and frameworks**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/mermed](https://bio.link/mermed)
+- 👨‍💻 All of my projects are available at ([https://bio.link/mermed](https://owl.link/mershed.btc))
 
-- 📫 How to reach me **https://bio.link/mermed**
+- 📫 How to reach me **(https://owl.link/mershed.btc)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
