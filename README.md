@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aamer Mershed</h1>
+<h1 align="center">Hi ✌🏻, I'm Aamer Mershed</h1>
 <h3 align="center">Deep understanding of blockchain technology and the tools and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamermershed&label=Profile%20views&color=0e75b6&style=flat" alt="aamermershed" /> </p>
